@@ -1,0 +1,2 @@
+cls
+python cpu_accelerator.py
